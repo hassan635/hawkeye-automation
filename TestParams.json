@@ -1,0 +1,25 @@
+﻿{
+  "testCases": [
+    {
+      "vehicleName": "MTDataLoadTest Vehicle11",
+      "historyStartDate": "04/06/2018",
+      "historyEndDate": "04/06/2018"
+    },
+    {
+      "vehicleName": "MTDataLoadTest Vehicle18",
+      "historyStartDate": "04/06/2018",
+      "historyEndDate": "04/06/2018"
+    },
+    {
+      "vehicleName": "MTDataLoadTest Vehicle23",
+      "historyStartDate": "04/06/2018",
+      "historyEndDate": "04/06/2018"
+    },
+    {
+      "vehicleName": "Test Only Unit",
+      "historyStartDate": "04/06/2018",
+      "historyEndDate": "04/06/2018"
+    }
+
+  ]
+}
